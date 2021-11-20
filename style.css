@@ -1,0 +1,21 @@
+body         {
+    background: grey;
+        color:aquamarine
+    
+}
+.heading {
+    width: 80%;
+    font-size: 50px;
+}
+.name_of_objects {
+    font-size: 37px;
+}
+#camera {
+border: 1px solid lightgreen;
+    width: 400px;
+    height: 370px;
+    
+}
+#result_object,#result_accuracy {
+    color: black
+}
